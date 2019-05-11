@@ -1,0 +1,15 @@
+.thumbnail img{
+  height: 300px;
+  width: 300px;
+}
+
+.thumbnail .description{
+  color: #7f7f7f;
+  font-size: 13pt;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 16px;
+}
